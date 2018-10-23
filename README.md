@@ -1,4 +1,4 @@
-名单在 [List.txt](https://github.com/ZGWS88/TI/blob/master/List.txt) 里
+培训公司的名单在 [List.txt](https://github.com/ZGWS88/TI/blob/master/List.txt) 里
 
 按 Ctrl + F 输入 **公司** 或 **地址** 关键字进行搜索
 
